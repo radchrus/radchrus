@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-##Coś tam sobie plumkam!
+Coś tam sobie plumkam!
